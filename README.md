@@ -1,4 +1,4 @@
 # Company-Ranker
 
-<b>Project Descriptiion</b>
+# Project Description
 bu proje 
